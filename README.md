@@ -10,8 +10,8 @@
 | 1 | Term Work | 25 Marks | |
 | | a. Experiments | 15 Marks | [Front Page] , [Index Page] |
 | | b. Term Work Assessment | 10 Marks |  |
-| |    [Assignment - 1] | | 28th Feb. to 10th Mar. 2025 |
-| |    [Assignment - 2] | | 4th Apr. to 17th Apr. 2025 |
+| |    [Assignment - 1] | | 1st week of Feb. to 1st week of Mar. 2026 |
+| |    [Assignment - 2] | | 2nd week of Mar. to 1st week of Apr. 2026 |
 |   | Total Marks | 25 Marks | |
 
 ## Lab Objectives
