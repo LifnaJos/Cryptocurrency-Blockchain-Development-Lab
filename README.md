@@ -1,10 +1,9 @@
 # Course : Cryptocurrency Blockchain Development Lab (NCMPCL62)
-| Lab Instructor | Email-id | Sample Practical Questions | Theory Attendance | Syllabus |
-| :-------------:| :--------: | :-------------------: | :----------: | :----------: |
-| Prof. Geocey Shejy, [Lifna C S](https://www.linkedin.com/in/lifna-c-s-94015678/), Prof. Pradyna Raut | geocey.shejy@ves.ac.in, lifna.cs@ves.ac.in, pradnya.raut@ves.ac.in | [Sample Practical Questions] | [Attendance] | [Lab Syllabus](https://github.com/LifnaJos/Cryptocurrency-Blockchain-Development/blob/main/NCMPCL62-CBDL-LabSyllabus.pdf) |
+Lab incharges : Prof. Geocey Shejy, [Lifna C S](https://www.linkedin.com/in/lifna-c-s-94015678/), Prof. Pradyna Raut 
+
+## [Lab Syllabus](https://github.com/LifnaJos/Cryptocurrency-Blockchain-Development/blob/main/NCMPCL62-CBDL-LabSyllabus.pdf)
 
 ## Evaluation Scheme 
-
 | No | Rubrics | Marks | Document / Schedule |
 | :--: | ------------------ | :----: |:----------: |
 | 1 | Term Work | 25 Marks | |
