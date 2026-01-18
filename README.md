@@ -1,5 +1,5 @@
 # Course : Cryptocurrency Blockchain Development Lab (NCMPCL62)
-Lab incharges : Prof. Geocey Shejy, [Lifna C S](https://www.linkedin.com/in/lifna-c-s-94015678/), Prof. Pradyna Raut 
+Lab incharges : Geocey Shejy, [Lifna C S](https://www.linkedin.com/in/lifna-c-s-94015678/), Pradyna Raut 
 
 ## [Lab Syllabus](https://github.com/LifnaJos/Cryptocurrency-Blockchain-Development/blob/main/NCMPCL62-CBDL-LabSyllabus.pdf)
 
