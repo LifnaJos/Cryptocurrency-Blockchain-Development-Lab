@@ -7,7 +7,7 @@ Lab incharges : Geocey Shejy, [Lifna C S](https://www.linkedin.com/in/lifna-c-s-
 | No | Rubrics | Marks | Document / Schedule |
 | :--: | ------------------ | :----: |:----------: |
 | 1 | Term Work | 25 Marks | |
-| a. | Experiments | 15 Marks | [Front Page] , [Index Page] |
+| a. | Experiments | 15 Marks | [Front Page] <br> [Index Page] |
 | b. | Assignments | 5 Marks |  |
 | |    [Assignment - 1] | | 1st week of Feb. to 1st week of Mar. 2026 |
 | |    [Assignment - 2] | | 2nd week of Mar. to 1st week of Apr. 2026 |
