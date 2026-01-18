@@ -32,7 +32,7 @@ At the end of the course, students will be able to
 ## Lab Experiments
 | No | Name of Experiment | LO's | Date of Preparation | Date of Submission |  
 | :--: | ------------------ | :----: | :-----------------: | :------------------:|
-| 1. | Explore the Cryptocurrency Landscape | L05 | 4th week of Jan. 2026 | 5th week of Jan. 2026 |
+| 1. | [Explore the Cryptocurrency Landscape](https://github.com/LifnaJos/Cryptocurrency-Blockchain-Development-Lab/blob/main/Lab-1-Cryptocurrency-Landscape.md) | L05 | 4th week of Jan. 2026 | 5th week of Jan. 2026 |
 | 2. | Cryptography in Blockchain, Merkle root tree hash | LO6 | 5th week of Jan. 2026 | 1st week of Feb. 2026 |
 | 3. | Create a Blockchain using Python  | LO1 | 1st week of Feb. 2026 | 2nd week of Feb. 2026 |
 | 4. | Create a Crypto Currency using Python (in Expt.3 and create a network of nodes | LO1, LO4 | 2nd week of Feb. 2026 |  3rd week of Feb. 2026 |
